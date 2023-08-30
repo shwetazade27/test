@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shweta Zade
-Skills: HTML, CSS, JS, REACTJS, NODEJS, MONGODB
-Email: shwetapzade123@gmail.com
-{{/user}}
